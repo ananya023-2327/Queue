@@ -1,9 +1,9 @@
 # Queue
 
-##Experiment 19
+## Experiment 19
 
 ### Aim 
-To use excepttion handling.
+To use exception handling.
 
 ### Software Used 
 VS Code
